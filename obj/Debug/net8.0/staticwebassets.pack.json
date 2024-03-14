@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/oscarleon/Desktop/Blazor-curso-mimo/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/oscarleon/Desktop/Blazor-curso-mimo/obj/Debug/net8.0/compressed/baiov6ode2.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/oscarleon/Desktop/Blazor-curso-mimo/obj/Debug/net8.0/scopedcss/bundle/Blazor-curso-mimo.styles.css",
+      "PackagePath": "staticwebassets/Blazor-curso-mimo.styles.css"
+    },
+    {
+      "Id": "/Users/oscarleon/Desktop/Blazor-curso-mimo/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/oscarleon/Desktop/Blazor-curso-mimo/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/oscarleon/Desktop/Blazor-curso-mimo/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/oscarleon/Desktop/Blazor-curso-mimo/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/oscarleon/Desktop/Blazor-curso-mimo/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/oscarleon/Desktop/Blazor-curso-mimo/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/oscarleon/Desktop/Blazor-curso-mimo/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Blazor-curso-mimo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Blazor-curso-mimo.props",
+      "PackagePath": "build\\Blazor-curso-mimo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Blazor-curso-mimo.props",
+      "PackagePath": "buildMultiTargeting\\Blazor-curso-mimo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Blazor-curso-mimo.props",
+      "PackagePath": "buildTransitive\\Blazor-curso-mimo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

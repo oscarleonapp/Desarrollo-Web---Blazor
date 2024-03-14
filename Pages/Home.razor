@@ -1,0 +1,11 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager;
+
+<PageTitle>Desarrollo Web Completo</PageTitle>
+
+<button class="btn btn-dark" @onclick="@(()=> NavigationManager.NavigateTo("/weather"))">Home</button>
+
+
+<h1>Iniciando el curso</h1>
+
+Welcome to your new app.
